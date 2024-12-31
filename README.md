@@ -1,4 +1,4 @@
-# pytorch-madrl
+# Deep Reinforcement Learning Pytorch Implementation
 
 This project includes PyTorch implementations of various Deep Reinforcement Learning algorithms for both single agent and multi-agent.
 
@@ -53,11 +53,6 @@ It's extremely difficult to reproduce results for Reinforcement Learning algorit
 
 ![CartPole-v0](output/CartPole-v0_ppo.png)
 
-
-# TODO
-- [ ] TRPO
-- [ ] LOLA
-- [ ] Parameter noise
 
 # Acknowledgments
 This project gets inspirations from the following projects:
