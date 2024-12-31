@@ -51,7 +51,3 @@ $ python main.py
 
 
 <br/>
-
-
-## Author
-Yunjey Choi/ [@yunjey](https://github.com/yunjey)
